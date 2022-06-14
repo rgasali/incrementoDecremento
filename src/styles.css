@@ -1,0 +1,28 @@
+.contador {
+  background-color: mediumpurple;
+  padding: 10px 20px;
+  border: solid thick purple;
+  border-radius: 5px;
+  color: white;
+}
+
+button {
+  background-color: fuchsia;
+  border: solid thick purple;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+button:hover {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+button:active {
+  background-color: darkorchid;
+}
+
+.input-sumar-varios {
+  width: 10vw;
+  border: solid 3px purple;
+}
